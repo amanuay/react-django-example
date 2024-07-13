@@ -1,0 +1,976 @@
+{
+  "name": "श्रव्यसहित- संस्कृतवाङ्मयम्",
+  "free": true,
+  "id": "SV",
+  "description": "Śravyasahita-Saṃskṛtavāṅmayam",
+  "_children": [
+    {
+      "name": "वेदाङ्गानि",
+      "free": true,
+      "id": "BV_VEG",
+      "description": "Vedāṅgāni",
+      "_children": [
+        {
+          "name": "शिक्षा",
+          "free": true,
+          "id": "BV_VEG_SK",
+          "description": "Śikṣā"
+        },
+        {
+          "name": "व्याकरणम्",
+          "free": true,
+          "id": "BV_VEG_VYK",
+          "description": "Vyākaraṇam"
+        },
+        {
+          "name": "छन्दः",
+          "free": true,
+          "id": "BV_VEG_CHA",
+          "description": "Chandaḥ"
+        },
+        {
+          "name": "निरुक्तम्",
+          "free": true,
+          "id": "BV_VEG_NRK",
+          "description": "Niruktam"
+        },
+        {
+          "name": "ज्योतिषम्",
+          "free": true,
+          "id": "BV_VEG_JYO",
+          "description": "Jyotiṣam",
+          "_children": [
+            {
+              "name": "गणितस्कन्धः",
+              "free": true,
+              "id": "BV_VEG_JYO_GS",
+              "description": "Gaṇitaskandhaḥ",
+              "_children": [
+                {
+                  "name": "सिद्धान्तः",
+                  "free": true,
+                  "id": "BV_VEG_JYO_GS_SD",
+                  "description": "Siddhāntaḥ",
+                  "_children": [
+                    {
+                      "name": "सूर्यसिद्धान्तः",
+                      "free": true,
+                      "id": "BV_VEG_JYO_GS_SD_SS",
+                      "description": "Sūryasiddhāntaḥ"
+                    },
+                    {
+                      "name": "वेदाङ्गज्योतिषम्",
+                      "free": true,
+                      "id": "BV_VEG_JYO_GS_SD_VJ",
+                      "description": "Vedāṅgajyotiṣam"
+                    },
+                    {
+                      "name": "ब्रह्मस्फुटसिद्धान्तः",
+                      "free": true,
+                      "id": "BV_VEG_JYO_GS_SD_BSS",
+                      "description": "Brahmasphuṭasiddhāntaḥ"
+                    },
+                    {
+                      "name": "आर्यभट्टसिद्धान्तः",
+                      "free": true,
+                      "id": "BV_VEG_JYO_GS_SD_ABS",
+                      "description": "Āryabhaṭṭasiddhāntaḥ"
+                    },
+                    {
+                      "name": "आर्यभटीयम्",
+                      "free": true,
+                      "id": "BV_VEG_JYO_GS_SD_AB",
+                      "description": "Āryabhaṭīyam"
+                    },
+                    {
+                      "name": "सिद्धान्तशिरोमणिः",
+                      "free": true,
+                      "id": "BV_VEG_JYO_GS_SD_SSH",
+                      "description": "Siddhāntaśiromaṇiḥ"
+                    },
+                    {
+                      "name": "बृहत्सिद्धान्तः",
+                      "free": true,
+                      "id": "BV_VEG_JYO_GS_SD_BS",
+                      "description": "Bṛhatsiddhāntaḥ"
+                    },
+                    {
+                      "name": "सिद्धान्तकौस्तुभम्",
+                      "free": true,
+                      "id": "BV_VEG_JYO_GS_SD_SK",
+                      "description": "Siddhāntakaustubham"
+                    },
+                    {
+                      "name": "तन्त्रसङ्ग्रहः",
+                      "free": true,
+                      "id": "BV_VEG_JYO_GS_SD_TS",
+                      "description": "Tantrasaṅgrahaḥ"
+                    }
+                  ]
+                },
+                {
+                  "name": "करणम्",
+                  "free": true,
+                  "id": "BV_VEG_JYO_GS_KR",
+                  "description": "Karaṇam"
+                },
+                {
+                  "name": "वाक्यम्",
+                  "free": true,
+                  "id": "BV_VEG_JYO_GS_VK",
+                  "description": "Vākyam"
+                }
+              ]
+            },
+            {
+              "name": "संहितास्कन्धः",
+              "free": true,
+              "id": "BV_VEG_JYO_SS",
+              "description": "Saṃhitāskandhaḥ"
+            },
+            {
+              "name": "होरास्कन्धः",
+              "free": true,
+              "id": "BV_VEG_JYO_HS",
+              "description": "Horāskandhaḥ",
+              "_children": [
+                {
+                  "name": "बृहज्जातकम्",
+                  "free": true,
+                  "id": "BV_VEG_JYO_HS_BJ",
+                  "description": "Bṛhajjātakam"
+                },
+                {
+                  "name": "जातकपारिजातः",
+                  "free": true,
+                  "id": "BV_VEG_JYO_HS_JPJ",
+                  "description": "Jātakapārijātaḥ"
+                },
+                {
+                  "name": "फलदीपिका",
+                  "free": true,
+                  "id": "BV_VEG_JYO_HS_PD",
+                  "description": "Phaladīpikā"
+                },
+                {
+                  "name": "सारावली",
+                  "free": true,
+                  "id": "BV_VEG_JYO_HS_SV",
+                  "description": "Sārāvalī"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "कल्पः",
+          "free": true,
+          "id": "BV_VEG_KAL",
+          "description": "Kalpaḥ"
+        }
+      ]
+    },
+    {
+      "name": "दर्शनानि",
+      "free": true,
+      "id": "BV_UPG",
+      "description": "Darśanāni",
+      "_children": [
+        {
+          "name": "मीमांसा",
+          "free": true,
+          "id": "BV_UPG_MIM_PMIM",
+          "description": "Mīmāṃsā",
+          "_children": [
+            {
+              "name": "प्रकरणग्रन्थाः",
+              "free": true,
+              "id": "BV_UPG_MIM_PMIM_PG",
+              "description": "Prakaraṇagranthāḥ"
+            },
+            {
+              "name": "मूलग्रन्थाः",
+              "free": true,
+              "id": "BV_UPG_MIM_PMIM_MG",
+              "description": "Mūlagranthāḥ"
+            },
+            {
+              "name": "इतरे ग्रन्थाः",
+              "free": true,
+              "id": "BV_UPG_MIM_PMIM_IG",
+              "description": "Itare Granthāḥ"
+            }
+          ]
+        },
+        {
+          "name": "वेदान्तः",
+          "free": true,
+          "id": "BV_UPG_MIM_UMIM",
+          "description": "Vedāntaḥ",
+          "_children": [
+            {
+              "name": "अद्वैतवेदान्तः",
+              "free": true,
+              "id": "BV_UPG_MIM_UMIM_AV",
+              "description": "Advaitavedāntaḥ",
+              "_children": [
+                {
+                  "name": "प्रकरणग्रन्थाः",
+                  "free": true,
+                  "id": "BV_UPG_MIM_UMIM_AV_PG",
+                  "description": "Prakaraṇagranthāḥ",
+                  "_children": [
+                    {
+                      "name": "विवेकचूडामणिः",
+                      "free": true,
+                      "id": "BV_UPG_MIM_UMIM_AV_PG_VC",
+                      "description": "Vivekacūḍāmaṇiḥ"
+                    },
+                    {
+                      "name": "वेदान्तसारः",
+                      "free": true,
+                      "id": "BV_UPG_MIM_UMIM_AV_PG_VS",
+                      "description": "Vedāntasāraḥ"
+                    },
+                    {
+                      "name": "शतश्लोकी",
+                      "free": true,
+                      "id": "BV_UPG_MIM_UMIM_AV_PG_SL",
+                      "description": "Śataślokī"
+                    },
+                    {
+                      "name": "सर्ववेदान्तसिद्धान्तसारसङ्ग्रहः",
+                      "free": true,
+                      "id": "BV_UPG_MIM_UMIM_AV_PG_SVSSS",
+                      "description": "Sarvavedāntasiddhāntasārasaṅgrahaḥ"
+                    }
+                  ]
+                },
+                {
+                  "name": "मूलग्रन्थाः",
+                  "free": true,
+                  "id": "BV_UPG_MIM_UMIM_AV_MG",
+                  "description": "Mūlagranthāḥ",
+                  "_children": [
+                    {
+                      "name": "उपनिषदः",
+                      "free": true,
+                      "id": "BV_UPG_MIM_UMIM_AV_MG_UPS",
+                      "description": "Upaniṣadaḥ",
+                      "_children": [
+                        {
+                          "name": "ईशावास्योपनिषद्",
+                          "free": true,
+                          "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_ISV",
+                          "description": "Īśāvāsyopaniṣad",
+                          "_children": [
+                            {
+                              "name": "शाङ्करभाष्यम्",
+                              "free": true,
+                              "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_ISV_SB",
+                              "description": "Śāṅkarabhāṣyam",
+                              "_children": [
+                                {
+                                  "name": "आनन्दगिरिटीका",
+                                  "free": true,
+                                  "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_ISV_SB_AGT",
+                                  "description": "Ānandagiriṭīkā"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "केनोपनिषद्",
+                          "free": true,
+                          "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_KU",
+                          "description": "Kenopaniṣad",
+                          "_children": [
+                            {
+                              "name": "शाङ्करभाष्यम्",
+                              "free": true,
+                              "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_KU_SB",
+                              "description": "Śāṅkarabhāṣyam",
+                              "_children": [
+                                {
+                                  "name": "आनन्दगिरिटीका",
+                                  "free": true,
+                                  "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_KU_SB_AGT",
+                                  "description": "Ānandagiriṭīkā"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "कठोपनिषद्",
+                          "free": true,
+                          "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_KATU",
+                          "description": "Kaṭhopaniṣad",
+                          "_children": [
+                            {
+                              "name": "शाङ्करभाष्यम्",
+                              "free": true,
+                              "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_KATU_SB",
+                              "description": "Śāṅkarabhāṣyam",
+                              "_children": [
+                                {
+                                  "name": "आनन्दगिरिटीका",
+                                  "free": true,
+                                  "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_KATU_SB_AGT",
+                                  "description": "Ānandagiriṭīkā"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "प्रश्नोपनिषद्",
+                          "free": true,
+                          "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_PRU",
+                          "description": "Praśnopaniṣad",
+                          "_children": [
+                            {
+                              "name": "शाङ्करभाष्यम्",
+                              "free": true,
+                              "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_PRU_SB",
+                              "description": "Śāṅkarabhāṣyam",
+                              "_children": [
+                                {
+                                  "name": "आनन्दगिरिटीका",
+                                  "free": true,
+                                  "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_PRU_SB_AGT",
+                                  "description": "Ānandagiriṭīkā"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "मुण्डकोपनिषद्",
+                          "free": true,
+                          "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_MUNU",
+                          "description": "Muṇḍakopaniṣad",
+                          "_children": [
+                            {
+                              "name": "शाङ्करभाष्यम्",
+                              "free": true,
+                              "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_MUNU_SB",
+                              "description": "Śāṅkarabhāṣyam",
+                              "_children": [
+                                {
+                                  "name": "आनन्दगिरिटीका",
+                                  "free": true,
+                                  "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_MUNU_SB_AGT",
+                                  "description": "Ānandagiriṭīkā"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "माण्डूक्योपनिषद्",
+                          "free": true,
+                          "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_MANU",
+                          "description": "Māṇḍūkyopaniṣad",
+                          "_children": [
+                            {
+                              "name": "शाङ्करभाष्यम्",
+                              "free": true,
+                              "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_MANU_SB",
+                              "description": "Śāṅkarabhāṣyam",
+                              "_children": [
+                                {
+                                  "name": "आनन्दगिरिटीका",
+                                  "free": true,
+                                  "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_MANU_SB_AGT",
+                                  "description": "Ānandagiriṭīkā"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "तैत्तिरीयोपनिषद्",
+                          "free": true,
+                          "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_TTRU",
+                          "description": "Taittirīyopaniṣad",
+                          "_children": [
+                            {
+                              "name": "शाङ्करभाष्यम्",
+                              "free": true,
+                              "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_TTRU_SB",
+                              "description": "Śāṅkarabhāṣyam",
+                              "_children": [
+                                {
+                                  "name": "वार्तिकम्",
+                                  "free": true,
+                                  "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_TTRU_SB_VT",
+                                  "description": "Vārtikam"
+                                },
+                                {
+                                  "name": "वनमालाव्याख्या",
+                                  "free": true,
+                                  "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_TTRU_SB_VNMV",
+                                  "description": "Vanamālāvyākhyā"
+                                },
+                                {
+                                  "name": "आनन्दगिरिटीका",
+                                  "free": true,
+                                  "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_TTRU_SB_AGT",
+                                  "description": "Ānandagiriṭīkā"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "ऐतरेयोपनिषद्",
+                          "free": true,
+                          "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_ATRU",
+                          "description": "Aitareyopaniṣad",
+                          "_children": [
+                            {
+                              "name": "शाङ्करभाष्यम्",
+                              "free": true,
+                              "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_ATRU_SB",
+                              "description": "Śāṅkarabhāṣyam",
+                              "_children": [
+                                {
+                                  "name": "आनन्दगिरिटीका",
+                                  "free": true,
+                                  "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_ATRU_SB_AGT",
+                                  "description": "Ānandagiriṭīkā"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "छान्दोग्योपनिषद्",
+                          "free": true,
+                          "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_CHNU",
+                          "description": "Chāndogyopaniṣad",
+                          "_children": [
+                            {
+                              "name": "शाङ्करभाष्यम्",
+                              "free": true,
+                              "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_CHNU_SB",
+                              "description": "Śāṅkarabhāṣyam",
+                              "_children": [
+                                {
+                                  "name": "आनन्दगिरिटीका",
+                                  "free": true,
+                                  "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_CHNU_SB_AGT",
+                                  "description": "Ānandagiriṭīkā"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "बृहदारण्यकोपनिषद्",
+                          "free": true,
+                          "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_BHRU",
+                          "description": "Bṛhadāraṇyakopaniṣad",
+                          "_children": [
+                            {
+                              "name": "शाङ्करभाष्यम्",
+                              "free": true,
+                              "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_BHRU_SB",
+                              "description": "Śāṅkarabhāṣyam",
+                              "_children": [
+                                {
+                                  "name": "आनन्दगिरिटीका",
+                                  "free": true,
+                                  "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_BHRU_SB_AGT",
+                                  "description": "Ānandagiriṭīkā"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "श्वेताश्वतरोपनिषद्",
+                          "free": true,
+                          "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_BHRU_SVTU",
+                          "description": "Śvetāśvataropaniṣad"
+                        },
+                        {
+                          "name": "कौशीतकिब्राह्मणोपनिषद्",
+                          "free": true,
+                          "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_BHRU_KSTBU",
+                          "description": "Kauśītakibrāhmaṇopaniṣad"
+                        },
+                        {
+                          "name": "जाबालोपनिषद्",
+                          "free": true,
+                          "id": "BV_UPG_MIM_UMIM_AV_MG_UPS_BHRU_JBPU",
+                          "description": "Jābālopaniṣad"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "श्रीमद्भगवद्गीता",
+                      "free": true,
+                      "id": "BV_UPG_MIM_UMIM_AV_MG_SBG",
+                      "description": "Śrīmadbhagavadgītā",
+                      "_children": [
+                        {
+                          "name": "शाङ्करभाष्यम्",
+                          "free": true,
+                          "id": "BV_UPG_MIM_UMIM_AV_MG_SBG_SB",
+                          "description": "Śāṅkarabhāṣyam",
+                          "_children": [
+                            {
+                              "name": "आनन्दगिरिटीका",
+                              "free": true,
+                              "id": "BV_UPG_MIM_UMIM_AV_MG_SBG_SB_AGT",
+                              "description": "Ānandagiriṭīkā"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "ब्रह्मसूत्राणि",
+                      "free": true,
+                      "id": "BV_UPG_MIM_UMIM_AV_MG_BMS",
+                      "description": "Brahmasūtrāṇi",
+                      "_children": [
+                        {
+                          "name": "शारीरकभाष्यम्",
+                          "free": true,
+                          "id": "BV_UPG_MIM_UMIM_AV_MG_BMS_SB",
+                          "description": "Śārīrakabhāṣyam",
+                          "_children": [
+                            {
+                              "name": "पञ्चपादिका",
+                              "free": true,
+                              "id": "BV_UPG_MIM_UMIM_AV_MG_BMS_SB_PCP",
+                              "description": "Pañcapādikā",
+                              "_children": [
+                                {
+                                  "name": "पञ्चपादिकाविवरणम्",
+                                  "free": true,
+                                  "id": "BV_UPG_MIM_UMIM_AV_MG_BMS_SB_PCP_PCPV",
+                                  "description": "Pañcapādikāvivaraṇam"
+                                },
+                                {
+                                  "name": "वक्तव्यकाशिका",
+                                  "free": true,
+                                  "id": "BV_UPG_MIM_UMIM_AV_MG_BMS_SB_PCP_VVS",
+                                  "description": "Vaktavyakāśikā"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "भामतीव्याख्या",
+                              "free": true,
+                              "id": "BV_UPG_MIM_UMIM_AV_MG_BMS_SB_BV",
+                              "description": "Bhāmatīvyākhyā"
+                            },
+                            {
+                              "name": "भाष्यरत्नप्रभाव्याख्या",
+                              "free": true,
+                              "id": "BV_UPG_MIM_UMIM_AV_MG_BMS_SB_BRPV",
+                              "description": "Bhāṣyaratnaprabhāvyākhyā"
+                            },
+                            {
+                              "name": "न्यायनिर्णयः",
+                              "free": true,
+                              "id": "BV_UPG_MIM_UMIM_AV_MG_BMS_SB_NYN",
+                              "description": "Nyāyanirṇayaḥ"
+                            },
+                            {
+                              "name": "वैयासिकन्यायमाला",
+                              "free": true,
+                              "id": "BV_UPG_MIM_UMIM_AV_MG_BMS_SB_VYSN",
+                              "description": "Vaiyāsikanyāyamālā"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "इतरे ग्रन्थाः",
+                  "free": true,
+                  "id": "BV_UPG_MIM_UMIM_AV_IG",
+                  "description": "Itare Granthāḥ",
+                  "_children": [
+                    {
+                      "name": "अद्वैतसिद्धिः",
+                      "free": true,
+                      "id": "BV_UPG_MIM_UMIM_AV_IG_AVS",
+                      "description": "Advaitasiddhiḥ"
+                    },
+                    {
+                      "name": "शास्त्रसिद्धान्तलेशसङ्ग्रहः",
+                      "free": true,
+                      "id": "BV_UPG_MIM_UMIM_AV_IG_SSLS",
+                      "description": "Śāstrasiddhāntaleśasaṅgrahaḥ"
+                    },
+                    {
+                      "name": "श्रीविष्णुषट्पदी",
+                      "free": true,
+                      "id": "BV_UPG_MIM_UMIM_AV_IG_SVS",
+                      "description": "śrīviṣṇuṣaṭpadī"
+                    },
+                    {
+                      "name": "साधनापञ्चकम्",
+                      "free": true,
+                      "id": "BV_UPG_MIM_UMIM_AV_IG_SP",
+                      "description": "sādhanāpañcakam"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "न्यायः",
+          "free": true,
+          "id": "BV_UPG_NY_NYS",
+          "description": "Nyāya",
+          "_children": [
+            {
+              "name": "प्राचीनन्यायः",
+              "free": true,
+              "id": "BV_UPG_NY_NYS_PNY",
+              "description": "Prācīnanyāyaḥ",
+              "_children": [
+                {
+                  "name": "प्रकरणग्रन्थाः",
+                  "free": true,
+                  "id": "BV_UPG_NY_NYS_PNY_PG",
+                  "description": "Prakaraṇagranthāḥ"
+                },
+                {
+                  "name": "मूलग्रन्थाः",
+                  "free": true,
+                  "id": "BV_UPG_NY_NYS_PNY_MG",
+                  "description": "Mūlagranthāḥ",
+                  "_children": [
+                    {
+                      "name": "न्यायसूत्राणि",
+                      "free": true,
+                      "id": "BV_UPG_NY_NYS_PNY_MG_NYS",
+                      "description": "Nyāyasūtrāṇi",
+                      "_children": [
+                        {
+                          "name": "न्यायभाष्यम्",
+                          "free": true,
+                          "id": "BV_UPG_NY_NYS_PNY_MG_NYS_NYB",
+                          "description": "Nyāyabhāṣyam",
+                          "_children": [
+                            {
+                              "name": "वार्तिकम्",
+                              "free": true,
+                              "id": "BV_UPG_NY_NYS_PNY_MG_NYS_NYB_NYV",
+                              "description": "Corpus",
+                              "_children": [
+                                {
+                                  "name": "तात्पर्यटीका",
+                                  "free": true,
+                                  "id": "BV_UPG_NY_NYS_PNY_MG_NYS_NYB_NYV_TT",
+                                  "description": "Tātparyaṭīkā",
+                                  "_children": [
+                                    {
+                                      "name": "तात्पर्यपरिशुद्धिः",
+                                      "free": true,
+                                      "id": "BV_UPG_NY_NYS_PNY_MG_NYS_NYB_NYV_TT_TP",
+                                      "description": "Tātparyapariśuddhiḥ"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "इतरे ग्रन्थाः",
+                  "free": true,
+                  "id": "BV_UPG_NY_NYS_PNY_IG",
+                  "description": "Itare Granthāḥ",
+                  "_children": [
+                    {
+                      "name": "शब्दशक्तिप्रकाशिका",
+                      "free": true,
+                      "id": "BV_UPG_NY_NYS_PNY_IG_SSP",
+                      "description": "Śabdaśaktiprakāśikā"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "नव्यन्यायः",
+              "free": true,
+              "id": "BV_UPG_NY_NYS_NVNYYK",
+              "description": "Navyanyāyaḥ",
+              "_children": [
+                {
+                  "name": "प्रकरणग्रन्थाः",
+                  "free": true,
+                  "id": "BV_UPG_NY_NYS_NVNYYK_PG",
+                  "description": "Prakaraṇagranthāḥ",
+                  "_children": [
+                    {
+                      "name": "तर्कसङ्ग्रहः",
+                      "free": true,
+                      "id": "BV_UPG_NY_NYS_NVNYYK_PG_TKS",
+                      "description": "Tarkasaṅgrahaḥ",
+                      "_children": [
+                        {
+                          "name": "न्यायबोधिनी",
+                          "free": true,
+                          "id": "BV_UPG_NY_NYS_NVNYYK_PG_TKS_NYB",
+                          "description": "Nyāyabodhinī"
+                        },
+                        {
+                          "name": "दीपिका",
+                          "free": true,
+                          "id": "BV_UPG_NY_NYS_NVNYYK_PG_TKS_TKSD",
+                          "description": "Tarkasaṅgrahadīpikā"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "कारिकावली",
+                      "free": true,
+                      "id": "BV_UPG_NY_NYS_NVNYYK_PG_KRK",
+                      "description": "Kārikāvalī",
+                      "_children": [
+                        {
+                          "name": "न्यायसिद्धान्तमुक्तावली",
+                          "free": true,
+                          "id": "BV_UPG_NY_NYS_NVNYYK_PG_KRK_NYSMKV",
+                          "description": "Nyāyasiddhāntamuktāvalī",
+                          "_children": [
+                            {
+                              "name": "दिनकरी",
+                              "free": true,
+                              "id": "BV_UPG_NY_NYS_NVNYYK_PG_KRK_NYSMKV_DK",
+                              "description": "Dinakarī",
+                              "_children": [
+                                {
+                                  "name": "रामरुद्री",
+                                  "free": true,
+                                  "id": "BV_UPG_NY_NYS_NVNYYK_PG_KRK_NYSMKV_DK_RMR",
+                                  "description": "Rāmarudrī"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "तर्कभाषा",
+                      "free": true,
+                      "id": "BV_UPG_NY_NYS_NVNYYK_PG_TKB",
+                      "description": "Tarkabhāṣā"
+                    }
+                  ]
+                },
+                {
+                  "name": "मूलग्रन्थाः",
+                  "free": true,
+                  "id": "BV_UPG_NY_NYS_NVNYYK_MG",
+                  "description": "Mūlagranthāḥ",
+                  "_children": [
+                    {
+                      "name": "तत्त्वचिन्तामणिः",
+                      "free": true,
+                      "id": "BV_UPG_NY_NYS_NVNYYK_MG_TCM",
+                      "description": "Tattvacintāmaṇiḥ",
+                      "_children": [
+                        {
+                          "name": "माथुरी",
+                          "free": true,
+                          "id": "BV_UPG_NY_NYS_NVNYYK_MG_TCM_MT",
+                          "description": "Māthurī"
+                        },
+                        {
+                          "name": "दीधितिः",
+                          "free": true,
+                          "id": "BV_UPG_NY_NYS_NVNYYK_MG_TCM_DT",
+                          "description": "Dīdhitiḥ",
+                          "_children": [
+                            {
+                              "name": "जागदीशी",
+                              "free": true,
+                              "id": "BV_UPG_NY_NYS_NVNYYK_MG_TCM_DT_JGD",
+                              "description": "Jāgadīśī"
+                            },
+                            {
+                              "name": "गादाधरी",
+                              "free": true,
+                              "id": "BV_UPG_NY_NYS_NVNYYK_MG_TCM_DT_GGD",
+                              "description": "Gādādharī"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "इतरे ग्रन्थाः",
+                  "free": true,
+                  "id": "BV_UPG_NY_NYS_NVNYYK_IG",
+                  "description": "Itare Granthāḥ",
+                  "_children": [
+                    {
+                      "name": "प्रामाण्यवादः",
+                      "free": true,
+                      "id": "BV_UPG_NY_NYS_NVNYYK_IG_PRMV",
+                      "description": "Prāmāṇyavādaḥ"
+                    },
+                    {
+                      "name": "शक्तिवादः",
+                      "free": true,
+                      "id": "BV_UPG_NY_NYS_NVNYYK_IG_SV",
+                      "description": "Śaktivādaḥ"
+                    },
+                    {
+                      "name": "व्युत्पत्तिवादः",
+                      "free": true,
+                      "id": "BV_UPG_NY_NYS_NVNYYK_IG_VPV",
+                      "description": "Vyutpattivādaḥ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "वैशेषिकम्",
+          "free": true,
+          "id": "BV_UPG_VAI",
+          "description": "vaiśeṣikam"
+        },
+        {
+          "name": "योगः",
+          "free": true,
+          "id": "BV_UPG_YOG",
+          "description": "yogaḥ",
+          "_children": [
+            {
+              "name": "योगसूत्रम्",
+              "free": true,
+              "id": "BV_UPG_YOG_YS",
+              "description": "yogasūtram"
+            }
+          ]
+        },
+        {
+          "name": "साङ्ख्यम्",
+          "free": true,
+          "id": "BV_UPG_SANKH",
+          "description": "sāṅkhyam"
+        }
+      ]
+    },
+    {
+      "name": "साहित्यम्",
+      "free": true,
+      "id": "BV_SH",
+      "description": "Sāhityam",
+      "_children": [
+        {
+          "name": "दृश्यम्",
+          "free": true,
+          "id": "BV_SH_DS",
+          "description": "Dṛśyam"
+        },
+        {
+          "name": "श्रव्यम्",
+          "free": true,
+          "id": "BV_SH_SS",
+          "description": "Śravyam",
+          "_children": [
+            {
+              "name": "गद्यम्",
+              "free": true,
+              "id": "BV_SH_SS_GS",
+              "description": "Gadyam"
+            },
+            {
+              "name": "पद्यम्",
+              "free": true,
+              "id": "BV_SH_SS_PS",
+              "description": "Padyam",
+              "_children": [
+                {
+                  "name": "रघुवंशम्",
+                  "free": true,
+                  "id": "BV_SH_SS_PS_RV",
+                  "description": "raghuvaṃśam"
+                },
+                {
+                  "name": "मेघदूतम्",
+                  "free": true,
+                  "id": "BV_SH_SS_PS_MD",
+                  "description": "meghadūtam"
+                }
+              ]
+            },
+            {
+              "name": "चम्पूः",
+              "free": true,
+              "id": "BV_SH_SS_CS",
+              "description": "Campūḥ"
+            }
+          ]
+        },
+        {
+          "name": "अलङ्कारग्रन्थाः",
+          "free": true,
+          "id": "BV_SH_SG",
+          "description": "Alaṅkāragranthāḥ"
+        }
+      ]
+    },
+    {
+      "name": "गणितम्",
+      "free": true,
+      "id": "BV_GN",
+      "description": "Gaṇitam",
+      "_children": [
+        {
+          "name": "आर्यभटीयम्",
+          "free": true,
+          "id": "BV_GN_ARB",
+          "description": "Āryabhaṭīyaṃ"
+        },
+        {
+          "name": "लीलावतीगणितम्",
+          "free": true,
+          "id": "BV_GN_LVG",
+          "description": "Līlāvatīgaṇitam"
+        },
+        {
+          "name": "सूर्यसिद्धान्त",
+          "free": true,
+          "id": "BV_GN_SS",
+          "description": "Sūryasiddhānta"
+        },
+        {
+          "name": "खण्डखाद्यकम्",
+          "free": true,
+          "id": "BV_GN_KKY",
+          "description": "khaṇḍakhādyakam"
+        }
+      ]
+    }
+  ]
+}
